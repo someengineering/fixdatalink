@@ -15,7 +15,7 @@ cffi==1.16.0
 charset-normalizer==3.3.2
 cheroot==10.0.0
 cherrypy==18.9.0
-cryptography==42.0.5
+cryptography==42.0.4
 filelock==3.13.1
 fixinventoryclient==2.0.1
 fixinventorylib==4.0.0
