@@ -60,12 +60,12 @@ pycares==4.4.0
 pycparser==2.22
 pygments==2.17.2
 pyjwt==2.8.0
-pymysql==1.1.0
+pymysql==1.1.1
 pyopenssl==24.1.0
 python-dateutil==2.9.0.post0
 pytz==2024.1
 pyyaml==6.0.1
-requests==2.31.0
+requests==2.32.2
 rich==13.7.1
 rsa==4.9
 s3transfer==0.10.1
